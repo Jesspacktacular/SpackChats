@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Spack Chats</title>
+    <googleplay:author>Jessica Spackman</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Providence, Utah</rawvoice:location>
+    <rawvoice:frequency>BiWeekly</rawvoice:frequency>
+    <author>Jessica Spackman</author>
+    <itunes:author>Jessica Spackman</itunes:author>
+    <itunes:email>jessica.spackman@aggiemail.usu.edu</itunes:email>
+    <itunes:category text="Christianty" />
+    <image>
+      <url>https://spackchats.files.wordpress.com/2019/09/cropped-logo-draft-1.png</url>
+      <title>Spack Chats</title>
+      <link>https://spackchats.wordpress.com/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Jessica Spackman</itunes:name>
+      <itunes:email>jessica.spackman@aggiemail.usu.edu</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>[TO-DO]</itunes:keywords>
+    <copyright>Jessica Spackman 2020</copyright>
+    <description>blah blah blah</description>
+    <googleplay:image href="https://spackchats.files.wordpress.com/2019/09/cropped-logo-draft-1.png" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <link>https://spackchats.github.io/feed.xml</link>
+    <itunes:image href="https://spackchats.files.wordpress.com/2019/09/cropped-logo-draft-1.png" />
+    <item>
+      <author>Jessica Spackman</author>
+      <itunes:author>Jessica Spackman</itunes:author>
+      <title>First Title</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Long Episode Description
+
+on multiple lines and everything!
+        </description>
+    </item>
+  </channel>
+</rss>
