@@ -10,7 +10,7 @@
       <itunes:category text="Christianity" />
     </itunes:category>
     <image>
-      <url>https://spackchats.files.wordpress.com/2020/11/logo-round-large-2.png</url>
+      <url>https://spackchats.files.wordpress.com/2020/11/logo-round-large-1.png</url>
       <title>Spack Chats</title>
       <link>https://spackchats.com/</link>
     </image>
@@ -20,18 +20,18 @@
     </itunes:owner>
     <copyright>Jessica Spackman 2020</copyright>
     <description>TBD</description>
-    <googleplay:image href="https://spackchats.files.wordpress.com/2020/11/logo-round-large-2.png" />
+    <googleplay:image href="https://spackchats.files.wordpress.com/2020/11/logo-round-large-1.png" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Sun, 1 Nov 2020 12:00:00 MST</pubDate>
     <link>https://jesspacktacular.github.io/SpackChats/</link>
-    <itunes:image href="https://spackchats.files.wordpress.com/2020/11/logo-round-large-2.png" />
+    <itunes:image href="https://spackchats.files.wordpress.com/2020/11/logo-round-large-1.png" />
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Episode 1 Title</title>
+      <author>Jessica Spackman</author>
+      <itunes:author>Jessica Spackman</itunes:author>
+      <title>Focusing on Christ: Please Don't Call Us Mormons</title>
 	    <link>https://spackchats.com/podcast/</link>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <pubDate>Sun, 1 Nov 2020 18:00:00 MST</pubDate>
       <enclosure url="https://spackchats.files.wordpress.com/2020/11/focusing-on-christ-please-dont-call-us-mormons.mp3" type="audio/mpeg" length="17513493" />
       <itunes:duration>18:13</itunes:duration>
       <guid isPermaLink="false">sps01e01</guid>
